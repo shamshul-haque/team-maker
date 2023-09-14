@@ -1,7 +1,7 @@
 import { AiOutlineInfoCircle } from "react-icons/ai";
 
-const Player = ({ player }) => {
-  const { name, age, country, img, role, base_price } = player;
+const Player = ({ player, handleSelection }) => {
+  const { name, img, role, base_price } = player;
   return (
     <div className="border border-red-400 rounded-md p-5 relative">
       <img src={img} alt={name} className="h-40 w-full rounded-md" />
@@ -9,7 +9,10 @@ const Player = ({ player }) => {
         <h1 className="font-bold text-xl">{name}</h1>
         <p>Role: {role}</p>
         <p>Base Price: {base_price}</p>
-        <button className="bg-[rgba(0,200,0,0.5)] px-4 py-2 rounded-md hover:bg-[rgba(200,0,0,0.5)]">
+        <button
+          className="bg-[rgba(0,200,0,0.5)] px-4 py-2 rounded-md hover:bg-[rgba(200,0,0,0.5)]"
+          onClick={() => handleSelection(player)}
+        >
           Select
         </button>
       </div>
