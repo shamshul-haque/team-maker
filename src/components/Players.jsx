@@ -15,8 +15,8 @@ const Players = () => {
   }, []);
 
   return (
-    <div className="flex flex-col md:flex-row md:gap-10">
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-5 basis-9/12">
+    <div className="flex flex-col lg:flex-row gap-10">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 basis-9/12">
         {players.map((player) => (
           <Player key={player.id} player={player} />
         ))}
@@ -25,7 +25,5 @@ const Players = () => {
     </div>
   );
 };
-
-// players.propTypes = {};
 
 export default Players;
