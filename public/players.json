@@ -1,0 +1,185 @@
+{
+    "players": [
+      {
+        "id": 1,
+        "name": "Shakib Al Hasan",
+        "age": 34,
+        "country": "Bangladesh",
+        "base_salary": 150000,
+        "role": "All-rounder",
+        "img": "https://example.com/shakib.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Tamim Iqbal",
+        "age": 32,
+        "country": "Bangladesh",
+        "base_salary": 120000,
+        "role": "Opening Batsman",
+        "img": "https://example.com/tamim.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Mushfiqur Rahim",
+        "age": 33,
+        "country": "Bangladesh",
+        "base_salary": 110000,
+        "role": "Wicketkeeper-Batsman",
+        "img": "https://example.com/mushfiqur.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Mehidy Hasan",
+        "age": 23,
+        "country": "Bangladesh",
+        "base_salary": 80000,
+        "role": "Spinner",
+        "img": "https://example.com/mehidy.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Mustafizur Rahman",
+        "age": 25,
+        "country": "Bangladesh",
+        "base_salary": 95000,
+        "role": "Fast Bowler",
+        "img": "https://example.com/mustafizur.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Liton Das",
+        "age": 27,
+        "country": "Bangladesh",
+        "base_salary": 85000,
+        "role": "Wicketkeeper-Batsman",
+        "img": "https://example.com/liton.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Taskin Ahmed",
+        "age": 26,
+        "country": "Bangladesh",
+        "base_salary": 90000,
+        "role": "Fast Bowler",
+        "img": "https://example.com/taskin.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Soumya Sarkar",
+        "age": 28,
+        "country": "Bangladesh",
+        "base_salary": 75000,
+        "role": "All-rounder",
+        "img": "https://example.com/soumya.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Afif Hossain",
+        "age": 22,
+        "country": "Bangladesh",
+        "base_salary": 70000,
+        "role": "All-rounder",
+        "img": "https://example.com/afif.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Mahmudullah Riyad",
+        "age": 35,
+        "country": "Bangladesh",
+        "base_salary": 100000,
+        "role": "All-rounder",
+        "img": "https://example.com/mahmudullah.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Virat Kohli",
+        "age": 33,
+        "country": "India",
+        "base_salary": 200000,
+        "role": "Batsman",
+        "img": "https://example.com/virat.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Kane Williamson",
+        "age": 31,
+        "country": "New Zealand",
+        "base_salary": 180000,
+        "role": "Batsman",
+        "img": "https://example.com/kane.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Steve Smith",
+        "age": 32,
+        "country": "Australia",
+        "base_salary": 190000,
+        "role": "Batsman",
+        "img": "https://example.com/steve.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Joe Root",
+        "age": 30,
+        "country": "England",
+        "base_salary": 170000,
+        "role": "Batsman",
+        "img": "https://example.com/joe.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Kagiso Rabada",
+        "age": 26,
+        "country": "South Africa",
+        "base_salary": 150000,
+        "role": "Fast Bowler",
+        "img": "https://example.com/kagiso.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Rashid Khan",
+        "age": 22,
+        "country": "Afghanistan",
+        "base_salary": 90000,
+        "role": "Spinner",
+        "img": "https://example.com/rashid.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Ross Taylor",
+        "age": 37,
+        "country": "New Zealand",
+        "base_salary": 120000,
+        "role": "Batsman",
+        "img": "https://example.com/ross.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Chris Gayle",
+        "age": 42,
+        "country": "West Indies",
+        "base_salary": 80000,
+        "role": "Batsman",
+        "img": "https://example.com/chris.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Dale Steyn",
+        "age": 38,
+        "country": "South Africa",
+        "base_salary": 95000,
+        "role": "Fast Bowler",
+        "img": "https://example.com/dale.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Rohit Sharma",
+        "age": 34,
+        "country": "India",
+        "base_salary": 180000,
+        "role": "Batsman",
+        "img": "https://example.com/rohit.jpg"
+      }
+    ]
+  }
+  
