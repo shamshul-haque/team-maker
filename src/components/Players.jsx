@@ -1,4 +1,6 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
+import Player from "./Player";
+import Team from "./Team";
 
 const Players = () => {
   const [players, setPlayers] = useState([]);
@@ -7,14 +9,19 @@ const Players = () => {
     const loadPlayers = async () => {
       const res = await fetch("./players.json");
       const data = await res.json();
-      console.log(data);
+      setPlayers(data);
     };
     loadPlayers();
   }, []);
 
   return (
-    <div>
-      <h1 className="text-white">players</h1>
+    <div className="flex flex-col md:flex-row md:gap-10">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-5 basis-9/12">
+        {players.map((player) => (
+          <Player key={player.id} player={player} />
+        ))}
+      </div>
+      <Team />
     </div>
   );
 };

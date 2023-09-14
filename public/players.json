@@ -1,185 +1,182 @@
-{
-    "players": [
-      {
-        "id": 1,
-        "name": "Shakib Al Hasan",
-        "age": 34,
-        "country": "Bangladesh",
-        "base_salary": 150000,
-        "role": "All-rounder",
-        "img": "https://i.ibb.co/J2mJTZj/shakib.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Tamim Iqbal",
-        "age": 32,
-        "country": "Bangladesh",
-        "base_salary": 120000,
-        "role": "Opening Batsman",
-        "img": "https://i.ibb.co/rwgjxZP/tamim.jpg"
-      },
-      {
-        "id": 3,
-        "name": "Mushfiqur Rahim",
-        "age": 33,
-        "country": "Bangladesh",
-        "base_salary": 110000,
-        "role": "Wicketkeeper-Batsman",
-        "img": "https://i.ibb.co/0YSGPHr/musfiq.jpg"
-      },
-      {
-        "id": 4,
-        "name": "Mehidy Hasan",
-        "age": 23,
-        "country": "Bangladesh",
-        "base_salary": 80000,
-        "role": "All-rounder",
-        "img": "https://i.ibb.co/J2W1cj9/miraj.jpg"
-      },
-      {
-        "id": 5,
-        "name": "Mustafizur Rahman",
-        "age": 25,
-        "country": "Bangladesh",
-        "base_salary": 95000,
-        "role": "Fast Bowler",
-        "img": "https://i.ibb.co/n1DWzMh/mustafiz.jpg"
-      },
-      {
-        "id": 6,
-        "name": "Liton Das",
-        "age": 27,
-        "country": "Bangladesh",
-        "base_salary": 85000,
-        "role": "Wicketkeeper-Batsman",
-        "img": "https://i.ibb.co/RhhqrG5/liton.jpg"
-      },
-      {
-        "id": 7,
-        "name": "Taskin Ahmed",
-        "age": 26,
-        "country": "Bangladesh",
-        "base_salary": 90000,
-        "role": "Fast Bowler",
-        "img": "https://i.ibb.co/kBzKSQ7/taskin.jpg"
-      },
-      {
-        "id": 8,
-        "name": "Soumya Sarkar",
-        "age": 28,
-        "country": "Bangladesh",
-        "base_salary": 75000,
-        "role": "All-rounder",
-        "img": "https://i.ibb.co/16mq6Wr/soumyo.jpg"
-      },
-      {
-        "id": 9,
-        "name": "Nazmul Hossain",
-        "age": 22,
-        "country": "Bangladesh",
-        "base_salary": 70000,
-        "role": "Batsman",
-        "img": "https://i.ibb.co/yYhJy5y/shanto.jpg"
-      },
-      {
-        "id": 10,
-        "name": "Mahmudullah Riyad",
-        "age": 35,
-        "country": "Bangladesh",
-        "base_salary": 100000,
-        "role": "All-rounder",
-        "img": "https://i.ibb.co/9TkfP2s/riyad.jpg"
-      },
-      {
-        "id": 11,
-        "name": "Virat Kohli",
-        "age": 33,
-        "country": "India",
-        "base_salary": 200000,
-        "role": "Batsman",
-        "img": "https://i.ibb.co/zXjJPJP/virat.jpg"
-      },
-      {
-        "id": 12,
-        "name": "Kane Williamson",
-        "age": 31,
-        "country": "New Zealand",
-        "base_salary": 180000,
-        "role": "Batsman",
-        "img": "https://i.ibb.co/j3gfFWM/ken.jpg"
-      },
-      {
-        "id": 13,
-        "name": "Steve Smith",
-        "age": 32,
-        "country": "Australia",
-        "base_salary": 190000,
-        "role": "Batsman",
-        "img": "https://i.ibb.co/K2sRQ4m/smith.jpg"
-      },
-      {
-        "id": 14,
-        "name": "Rashid Khan",
-        "age": 22,
-        "country": "Afghanistan",
-        "base_salary": 90000,
-        "role": "Spinner",
-        "img": "https://i.ibb.co/PQXb53q/rashid.jpg"
-      },
-      {
-        "id": 15,
-        "name": "Ben Stokes",
-        "age": 34,
-        "country": "England",
-        "base_salary": 180000,
-        "role": "All-rounder",
-        "img": "https://i.ibb.co/rpq4DWS/ben.jpg"
-      },
-      {
-        "id": 16,
-        "name": "Kagiso Rabada",
-        "age": 26,
-        "country": "South Africa",
-        "base_salary": 150000,
-        "role": "Fast Bowler",
-        "img": "https://i.ibb.co/w0zs4tW/rabada.jpg"
-      },
-      {
-        "id": 17,
-        "name": "Nicholas Pooran",
-        "age": 28,
-        "country": "West Indies",
-        "base_salary": 80000,
-        "role": "Batsman",
-        "img": "https://i.ibb.co/NTyS83G/pooran.png"
-      }, 
-      {
-        "id": 18,
-        "name": "Babar Azam",
-        "age": 27,
-        "country": "Pakistan",
-        "base_salary": 160000,
-        "role": "Batsman",
-        "img": "https://i.ibb.co/7vQXP5Y/babar.jpg"
-      },
-      {
-        "id": 19,
-        "name": "Sikandar Raja",
-        "age": 35,
-        "country": "Zimbabwe",
-        "base_salary": 75000,
-        "role": "All-rounder",
-        "img": "https://i.ibb.co/ZNLFQ37/sikandar.jpg"
-      },
-      {
-        "id": 24,
-        "name": "Matheesha Pathirana",
-        "age": 33,
-        "country": "Sri Lanka",
-        "base_salary": 85000,
-        "role": "Fast Bowler",
-        "img": "https://i.ibb.co/3RqhyRg/pathirana.jpg"
-      }
-    ]
+[
+  {
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "age": 34,
+    "country": "Bangladesh",
+    "base_salary": "$150,000",
+    "role": "All-rounder",
+    "img": "https://i.ibb.co/J2mJTZj/shakib.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tamim Iqbal",
+    "age": 32,
+    "country": "Bangladesh",
+    "base_salary": "$120,000",
+    "role": "Opening Batsman",
+    "img": "https://i.ibb.co/rwgjxZP/tamim.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mushfiqur Rahim",
+    "age": 33,
+    "country": "Bangladesh",
+    "base_salary": "$110,000",
+    "role": "Wicketkeeper-Batsman",
+    "img": "https://i.ibb.co/0YSGPHr/musfiq.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mehidy Hasan",
+    "age": 23,
+    "country": "Bangladesh",
+    "base_salary": "$80,000",
+    "role": "All-rounder",
+    "img": "https://i.ibb.co/J2W1cj9/miraj.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mustafizur Rahman",
+    "age": 25,
+    "country": "Bangladesh",
+    "base_salary": "$95,000",
+    "role": "Fast Bowler",
+    "img": "https://i.ibb.co/n1DWzMh/mustafiz.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Liton Das",
+    "age": 27,
+    "country": "Bangladesh",
+    "base_salary": "$85,000",
+    "role": "Wicketkeeper-Batsman",
+    "img": "https://i.ibb.co/RhhqrG5/liton.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Taskin Ahmed",
+    "age": 26,
+    "country": "Bangladesh",
+    "base_salary": "$90,000",
+    "role": "Fast Bowler",
+    "img": "https://i.ibb.co/kBzKSQ7/taskin.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Soumya Sarkar",
+    "age": 28,
+    "country": "Bangladesh",
+    "base_salary": "$75,000",
+    "role": "All-rounder",
+    "img": "https://i.ibb.co/16mq6Wr/soumyo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Nazmul Hossain",
+    "age": 22,
+    "country": "Bangladesh",
+    "base_salary": "$70,000",
+    "role": "Batsman",
+    "img": "https://i.ibb.co/yYhJy5y/shanto.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Mahmudullah Riyad",
+    "age": 35,
+    "country": "Bangladesh",
+    "base_salary": "$100,000",
+    "role": "All-rounder",
+    "img": "https://i.ibb.co/9TkfP2s/riyad.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Virat Kohli",
+    "age": 33,
+    "country": "India",
+    "base_salary": "$200,000",
+    "role": "Batsman",
+    "img": "https://i.ibb.co/zXjJPJP/virat.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Kane Williamson",
+    "age": 31,
+    "country": "New Zealand",
+    "base_salary": "$180,000",
+    "role": "Batsman",
+    "img": "https://i.ibb.co/j3gfFWM/ken.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Steve Smith",
+    "age": 32,
+    "country": "Australia",
+    "base_salary": "$190,000",
+    "role": "Batsman",
+    "img": "https://i.ibb.co/K2sRQ4m/smith.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Rashid Khan",
+    "age": 22,
+    "country": "Afghanistan",
+    "base_salary": "$90,000",
+    "role": "Spinner",
+    "img": "https://i.ibb.co/PQXb53q/rashid.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Ben Stokes",
+    "age": 34,
+    "country": "England",
+    "base_salary": "$180,000",
+    "role": "All-rounder",
+    "img": "https://i.ibb.co/rpq4DWS/ben.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Kagiso Rabada",
+    "age": 26,
+    "country": "South Africa",
+    "base_salary": "$150,000",
+    "role": "Fast Bowler",
+    "img": "https://i.ibb.co/w0zs4tW/rabada.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Nicholas Pooran",
+    "age": 28,
+    "country": "West Indies",
+    "base_salary": "$80,000",
+    "role": "Batsman",
+    "img": "https://i.ibb.co/NTyS83G/pooran.png"
+  },
+  {
+    "id": 18,
+    "name": "Babar Azam",
+    "age": 27,
+    "country": "Pakistan",
+    "base_salary": "$160,000",
+    "role": "Batsman",
+    "img": "https://i.ibb.co/7vQXP5Y/babar.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Sikandar Raja",
+    "age": 35,
+    "country": "Zimbabwe",
+    "base_salary": "$75,000",
+    "role": "All-rounder",
+    "img": "https://i.ibb.co/ZNLFQ37/sikandar.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Matheesha Pathirana",
+    "age": 33,
+    "country": "Sri Lanka",
+    "base_salary": "$85,000",
+    "role": "Fast Bowler",
+    "img": "https://i.ibb.co/3RqhyRg/pathirana.jpg"
   }
-  
+]
