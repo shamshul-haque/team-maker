@@ -7,7 +7,7 @@
         "country": "Bangladesh",
         "base_salary": 150000,
         "role": "All-rounder",
-        "img": "https://example.com/shakib.jpg"
+        "img": "https://i.ibb.co/J2mJTZj/shakib.jpg"
       },
       {
         "id": 2,
@@ -16,7 +16,7 @@
         "country": "Bangladesh",
         "base_salary": 120000,
         "role": "Opening Batsman",
-        "img": "https://example.com/tamim.jpg"
+        "img": "https://i.ibb.co/rwgjxZP/tamim.jpg"
       },
       {
         "id": 3,
@@ -25,7 +25,7 @@
         "country": "Bangladesh",
         "base_salary": 110000,
         "role": "Wicketkeeper-Batsman",
-        "img": "https://example.com/mushfiqur.jpg"
+        "img": "https://i.ibb.co/0YSGPHr/musfiq.jpg"
       },
       {
         "id": 4,
@@ -33,8 +33,8 @@
         "age": 23,
         "country": "Bangladesh",
         "base_salary": 80000,
-        "role": "Spinner",
-        "img": "https://example.com/mehidy.jpg"
+        "role": "All-rounder",
+        "img": "https://i.ibb.co/J2W1cj9/miraj.jpg"
       },
       {
         "id": 5,
@@ -43,7 +43,7 @@
         "country": "Bangladesh",
         "base_salary": 95000,
         "role": "Fast Bowler",
-        "img": "https://example.com/mustafizur.jpg"
+        "img": "https://i.ibb.co/n1DWzMh/mustafiz.jpg"
       },
       {
         "id": 6,
@@ -52,7 +52,7 @@
         "country": "Bangladesh",
         "base_salary": 85000,
         "role": "Wicketkeeper-Batsman",
-        "img": "https://example.com/liton.jpg"
+        "img": "https://i.ibb.co/RhhqrG5/liton.jpg"
       },
       {
         "id": 7,
@@ -61,7 +61,7 @@
         "country": "Bangladesh",
         "base_salary": 90000,
         "role": "Fast Bowler",
-        "img": "https://example.com/taskin.jpg"
+        "img": "https://i.ibb.co/kBzKSQ7/taskin.jpg"
       },
       {
         "id": 8,
@@ -70,16 +70,16 @@
         "country": "Bangladesh",
         "base_salary": 75000,
         "role": "All-rounder",
-        "img": "https://example.com/soumya.jpg"
+        "img": "https://i.ibb.co/16mq6Wr/soumyo.jpg"
       },
       {
         "id": 9,
-        "name": "Afif Hossain",
+        "name": "Nazmul Hossain",
         "age": 22,
         "country": "Bangladesh",
         "base_salary": 70000,
-        "role": "All-rounder",
-        "img": "https://example.com/afif.jpg"
+        "role": "Batsman",
+        "img": "https://i.ibb.co/yYhJy5y/shanto.jpg"
       },
       {
         "id": 10,
@@ -88,7 +88,7 @@
         "country": "Bangladesh",
         "base_salary": 100000,
         "role": "All-rounder",
-        "img": "https://example.com/mahmudullah.jpg"
+        "img": "https://i.ibb.co/9TkfP2s/riyad.jpg"
       },
       {
         "id": 11,
@@ -97,7 +97,7 @@
         "country": "India",
         "base_salary": 200000,
         "role": "Batsman",
-        "img": "https://example.com/virat.jpg"
+        "img": "https://i.ibb.co/zXjJPJP/virat.jpg"
       },
       {
         "id": 12,
@@ -106,7 +106,7 @@
         "country": "New Zealand",
         "base_salary": 180000,
         "role": "Batsman",
-        "img": "https://example.com/kane.jpg"
+        "img": "https://i.ibb.co/j3gfFWM/ken.jpg"
       },
       {
         "id": 13,
@@ -115,70 +115,70 @@
         "country": "Australia",
         "base_salary": 190000,
         "role": "Batsman",
-        "img": "https://example.com/steve.jpg"
+        "img": "https://i.ibb.co/K2sRQ4m/smith.jpg"
       },
       {
         "id": 14,
-        "name": "Joe Root",
-        "age": 30,
-        "country": "England",
-        "base_salary": 170000,
-        "role": "Batsman",
-        "img": "https://example.com/joe.jpg"
-      },
-      {
-        "id": 15,
-        "name": "Kagiso Rabada",
-        "age": 26,
-        "country": "South Africa",
-        "base_salary": 150000,
-        "role": "Fast Bowler",
-        "img": "https://example.com/kagiso.jpg"
-      },
-      {
-        "id": 16,
         "name": "Rashid Khan",
         "age": 22,
         "country": "Afghanistan",
         "base_salary": 90000,
         "role": "Spinner",
-        "img": "https://example.com/rashid.jpg"
+        "img": "https://i.ibb.co/PQXb53q/rashid.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Ben Stokes",
+        "age": 34,
+        "country": "England",
+        "base_salary": 180000,
+        "role": "All-rounder",
+        "img": "https://i.ibb.co/rpq4DWS/ben.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Kagiso Rabada",
+        "age": 26,
+        "country": "South Africa",
+        "base_salary": 150000,
+        "role": "Fast Bowler",
+        "img": "https://i.ibb.co/w0zs4tW/rabada.jpg"
       },
       {
         "id": 17,
-        "name": "Ross Taylor",
-        "age": 37,
-        "country": "New Zealand",
-        "base_salary": 120000,
-        "role": "Batsman",
-        "img": "https://example.com/ross.jpg"
-      },
-      {
-        "id": 18,
-        "name": "Chris Gayle",
-        "age": 42,
+        "name": "Nicholas Pooran",
+        "age": 28,
         "country": "West Indies",
         "base_salary": 80000,
         "role": "Batsman",
-        "img": "https://example.com/chris.jpg"
+        "img": "https://i.ibb.co/NTyS83G/pooran.png"
+      }, 
+      {
+        "id": 18,
+        "name": "Babar Azam",
+        "age": 27,
+        "country": "Pakistan",
+        "base_salary": 160000,
+        "role": "Batsman",
+        "img": "https://i.ibb.co/7vQXP5Y/babar.jpg"
       },
       {
         "id": 19,
-        "name": "Dale Steyn",
-        "age": 38,
-        "country": "South Africa",
-        "base_salary": 95000,
-        "role": "Fast Bowler",
-        "img": "https://example.com/dale.jpg"
+        "name": "Sikandar Raja",
+        "age": 35,
+        "country": "Zimbabwe",
+        "base_salary": 75000,
+        "role": "All-rounder",
+        "img": "https://i.ibb.co/ZNLFQ37/sikandar.jpg"
       },
       {
-        "id": 20,
-        "name": "Rohit Sharma",
-        "age": 34,
-        "country": "India",
-        "base_salary": 180000,
-        "role": "Batsman",
-        "img": "https://example.com/rohit.jpg"
+        "id": 24,
+        "name": "Matheesha Pathirana",
+        "age": 33,
+        "country": "Sri Lanka",
+        "base_salary": 85000,
+        "role": "Fast Bowler",
+        "img": "https://i.ibb.co/3RqhyRg/pathirana.jpg"
       }
     ]
   }
